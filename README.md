@@ -71,7 +71,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/luandang4/github-profile-views-counter">
+<<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/luandang4?tab=followers"><img src="https://img.shields.io/github/followers/luandang4?label=Followers&style=social" alt="GitHub Badge"></a>
