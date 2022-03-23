@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-
+- 👨‍💻 I was born on February 14, 2000
 - 🔭 I’m currently studying on **Duy Tan University**
 
 - 🌱 I’m currently learning **Ruby on Rails**
