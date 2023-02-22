@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/luandang4?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/luandang4?tab=repositories)** and **[TomoGit](https://github.com/Tomosia-LuanDang)**
 
 - 📫 How to reach me **luandang4@gmail.com**
 
