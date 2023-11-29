@@ -50,21 +50,13 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
-
-<a href="#"><img alt="Luan Dang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luandang4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/dang-van-luan-66b32726a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/dangvanluan1402"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
 
